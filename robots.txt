@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kathryneclaeiouegh.github.io/sitemap.xml.gz
